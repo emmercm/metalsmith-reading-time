@@ -1,5 +1,7 @@
 # metalsmith-reading-time
 
+**⚠️ This repistory has been moved to [metalsmith-plugins](https://github.com/emmercm/metalsmith-plugins/tree/main/packages/metalsmith-reading-time). ⚠️**
+
 [![npm Version](https://badgen.net/npm/v/metalsmith-reading-time?icon=npm)](https://www.npmjs.com/package/metalsmith-reading-time)
 [![npm Weekly Downloads](https://badgen.net/npm/dw/metalsmith-reading-time)](https://www.npmjs.com/package/metalsmith-reading-time)
 
